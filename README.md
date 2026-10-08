@@ -1,3 +1,4 @@
+```python
 numbers = []
 print("Enter the numbers one by one. (Enter '0' to finish)")
 
